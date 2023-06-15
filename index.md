@@ -3,7 +3,7 @@ Security Analyst
 
 
 ## 📝 About Me
-<img src="https://github.com/AlexeyGlu/CV/blob/main/smart.jpeg" alt="Image Descriptiopx"  width="300px">
+<img src="https://github.com/AlexeyGlu/CV/blob/main/smart.jpeg"  width="300px">
 
 
 I have been involved in cybersecurity for 5 years with 3 years of industry experience as a SOC Analyst. SIEM - is my best friend. 
