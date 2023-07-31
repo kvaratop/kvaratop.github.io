@@ -53,8 +53,13 @@ Master in Cyber Security
 - CHFI
 
 ## 📚 Courses
-- SEC555 (SANS): SIEM with Tactical Analytics
-- NATO M6-112 (NATO): Cybersecurity of Operational Technology Systems
+- SANS SEC555: SIEM with Tactical Analytics
+- NATO M6-112: Cybersecurity of Operational Technology Systems
+- Using Splunk Enterprise Security
+- Splunk System Administrator
+- Splunk Data Administration
+- Cisco CCNA
+  
 
 ## 🌐 Language Skills
 - Ukrainian
