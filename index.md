@@ -28,7 +28,7 @@ To enhance my skills, I consistently participate in CTF competitions. 🏆
 
 ## 💼 Expertise Skills
 - SIEM (Splunk preferred)
-- Splunk Enterprise Security
+  + Splunk Enterprise Security
 - EDR (Crowd Strike, Cisco AMP)
 - Threat Intelligence
 - Threat Hunting
@@ -51,21 +51,31 @@ Master in Cyber Security
 - ECIH
 - CySA+
 - CHFI
+- GDAT (In Progress...)
 
 ## 📚 Courses
-- SANS SEC555: SIEM with Tactical Analytics
+- SANS
+  - SEC555: SIEM with Tactical Analytics
+  - SEC599: Defeating Advanced Adversaries - Purple Team Tactics & Kill Chain Defenses (In Progress...)
 - NATO M6-112: Cybersecurity of Operational Technology Systems
-- Using Splunk Enterprise Security
-- Splunk System Administrator
-- Splunk Data Administration
+- Splunk
+  - Using Splunk Enterprise Security
+  - Splunk System Administrator
+  - Splunk Data Administration
+- Mandiant
+  - Network Traffic Analysis
+  - Windows Enterprise Incident Response
+  - Linux Enterprise Incident Response
+  - Malware Analysis Crash Course
+  - Creative Red Teaming
 - Cisco CCNA
   
 
 ## 🌐 Language Skills
-- Ukrainian
+- Ukrainian (Native)
 - English (B1)
 
 
 ## 📞 Contact Me
-oleksii.hlushkov@gmail.com
-[linkedin.com/in/oleksii-hlushkov-46a3a919a](https://linkedin.com/in/oleksii-hlushkov-46a3a919a)
+- oleksii.hlushkov@gmail.com
+- [linkedin.com/in/oleksii-hlushkov-46a3a919a](https://linkedin.com/in/oleksii-hlushkov-46a3a919a)
