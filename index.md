@@ -3,7 +3,7 @@ Security Analyst
 
 
 ## 📝 About Me
-![Image Description](https://alexeyglu.github.io/photo.jpeg)
+![Image Description](https://kvaratop.github.io/photo.jpeg)
 
 I have been involved in cybersecurity for 5 years with 3 years of industry experience as a SOC Analyst. SIEM - is my best friend. 
 
