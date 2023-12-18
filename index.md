@@ -15,22 +15,21 @@ To enhance my skills, I consistently participate in CTF competitions. 🏆
 
 
 ## 💼 Work Experience
-- 2019-present SOC Engineer at SCPC SSSCIP
-  - Data ingesting & normalization
+- 2019-present Security Operations Analyst at SCPC SSSCIP
+  - Data ingesting & Normalization
   - Incident Triage & Investigation
-  - Logs analysis & correlation
+  - Logs analysis & Correlation
   - Newcomers onboarding & mentoring
   
-- 2021-present CRDF Cybersecurity Instructor
+- 2021-present Cybersecurity Instructor at CRDF Global
   - Maintain virtual infrastructure
   - Develop practical demos and attack-defend scenarios
   - Conducting training and CTF competitions
 
 ## 💼 Expertise Skills
 - SIEM (Splunk preferred)
-  + Splunk Enterprise Security
 - EDR (Crowd Strike, Cisco AMP)
-- Threat Intelligence
+- Threat Intelligence (MISP)
 - Threat Hunting
 - Network Forensics
 - Windows Forensics
@@ -47,28 +46,35 @@ To enhance my skills, I consistently participate in CTF competitions. 🏆
 Master in Cyber Security
 
 ## 🎓 Certifications
-- CEH
-- ECIH
-- CySA+
-- CHFI
 - GDAT (In Progress...)
+- Splunk
+  - Using Enterprise Security
+  - System Administration
+  - Data Administration
+- EC-Council
+  - CEH
+  - ECIH
+  - CHFI
+- Dragos Platform Certified User
 
 ## 📚 Courses
 - SANS
   - SEC555: SIEM with Tactical Analytics
   - SEC599: Defeating Advanced Adversaries - Purple Team Tactics & Kill Chain Defenses (In Progress...)
 - NATO M6-112: Cybersecurity of Operational Technology Systems
-- Splunk
-  - Using Splunk Enterprise Security
-  - Splunk System Administrator
-  - Splunk Data Administration
 - Mandiant
   - Network Traffic Analysis
   - Windows Enterprise Incident Response
   - Linux Enterprise Incident Response
   - Malware Analysis Crash Course
   - Creative Red Teaming
+- CompTIA CySA+
 - Cisco CCNA
+
+## Valuable Competitions
+- The Hunt SOCathon 2021
+- SANS Netwars 2022
+- NATO Crossed Swords 2023
   
 
 ## 🌐 Language Skills
