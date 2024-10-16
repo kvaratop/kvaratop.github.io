@@ -15,20 +15,26 @@ To enhance my skills, I consistently participate in CTF competitions. 🏆
 
 
 ## 💼 Work Experience
-- 2019-present Security Operations Analyst at SCPC SSSCIP
+- 2019-2023 Security Operations Analyst at SCPC SSSCIP
   - Data ingesting & Normalization
   - Incident Triage & Investigation
   - Logs analysis & Correlation
   - Newcomers onboarding & mentoring
+    
+- 2023-present Security Operations Lead at SCPC SSSCIP
+  - Strategic Planning
+  - Project Management
   
 - 2021-present Cybersecurity Instructor at CRDF Global
   - Maintain virtual infrastructure
   - Develop practical demos and attack-defend scenarios
+  - Conducting attendees' assessment
   - Conducting training and CTF competitions
 
 ## 💼 Expertise Skills
 - SIEM (Splunk preferred)
 - EDR (Crowd Strike, Cisco AMP)
+- Threat Informed Defense
 - Threat Intelligence (MISP)
 - Threat Hunting
 - Network Forensics
@@ -37,8 +43,8 @@ To enhance my skills, I consistently participate in CTF competitions. 🏆
 ## 📚 Frameworks
 - MITRE ATT&CK
 - MITRE DEF3ND
-- SIGMA
 - NIST CSF
+- SIGMA
 - CIS 20 
 
 ## 🎓 Education
@@ -48,6 +54,7 @@ Master in Cyber Security
 ## 🎓 Certifications
 - GDAT (In Progress...)
 - Splunk
+  - Certified Cybersecurity Defense Analyst
   - Using Enterprise Security
   - System Administration
   - Data Administration
@@ -60,7 +67,9 @@ Master in Cyber Security
 ## 📚 Courses
 - SANS
   - SEC555: SIEM with Tactical Analytics
-  - SEC599: Defeating Advanced Adversaries - Purple Team Tactics & Kill Chain Defenses (In Progress...)
+  - DFIR Netwars
+  - SEC599: Defeating Advanced Adversaries - Purple Team Tactics & Kill Chain Defenses
+  - SEC699: Advanced Purple Teaming - Adversary Emulation & Detection Engineering (In progress...)
 - NATO M6-112: Cybersecurity of Operational Technology Systems
 - Mandiant
   - Network Traffic Analysis
@@ -75,11 +84,12 @@ Master in Cyber Security
 - The Hunt SOCathon 2021
 - SANS Netwars 2022
 - NATO Crossed Swords 2023
+- NATO Locked Shields 2024
   
 
 ## 🌐 Language Skills
 - Ukrainian (Native)
-- English (B1)
+- English (B1.5 xD)
 
 
 ## 📞 Contact Me
