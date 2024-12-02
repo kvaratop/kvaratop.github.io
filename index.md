@@ -5,7 +5,7 @@ Security Analyst
 ## 📝 About Me
 ![Image Description](https://kvaratop.github.io/photo.jpeg)
 
-I have been involved in cybersecurity for 5 years with 3 years of industry experience as a SOC Analyst. SIEM - is my best friend. 
+I have been involved in cybersecurity for 7 years with 5 years of industry experience as a SOC Analyst. SIEM - is my best friend. 
 
 I am proficient in Linux and Windows environments (including Active Directory). My expertise extends to network and host forensics, intrusion detection, and anomaly monitoring. 
 
