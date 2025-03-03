@@ -1,6 +1,9 @@
 # 🕵️‍♂️ OLEKSII HLUSHKOV  
 Security Operations & Threat Defense  
 
+## 🎯 Motto  
+🩸 **Red Blood** | 🛡️ **Blue Team** | ⚔️ **Purple Willings**  
+
 ## 📝 About Me  
 ![Image Description](https://kvaratop.github.io/photo.jpeg)  
 
